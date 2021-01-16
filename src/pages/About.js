@@ -6,8 +6,7 @@ const About = () => {
       <div className="container">
         <h1 className="display-4">Information Page</h1>
         <p className="lead">
-          This is a modified jumbotron that occupies the entire horizontal space
-          of its parent.
+          Github Serch App (by denisosadchyi1)
         </p>
       </div>
     </div>
